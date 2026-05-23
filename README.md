@@ -1,2 +1,5 @@
-# watermark
-A Chrome extension that approximates how much water you use when prompting AI
+# WaterMark
+
+--
+## Background:
+One thing that has been on my mind for a while is how much water gets used when I use AI. 
